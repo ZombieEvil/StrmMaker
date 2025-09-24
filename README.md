@@ -6,7 +6,6 @@
 
 - `bin/StrmMaker.exe` : exécutable prêt à l'emploi.
 - `src/StrmMaker_GUI_Pro.py` : code source Python.
-- `urls_sample.txt` : exemple de fichier d'URLs.
 - `README.md` : instructions.
 
 ## ⚡ Utilisation
